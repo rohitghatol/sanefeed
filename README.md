@@ -12,3 +12,13 @@ Pre-requistes
   * Install NodeJs and NPM - http://nodejs.org/download/ 
   * 
 
+
+Step to deploy on Heruko
+------
+  * git commit -m "Message"
+  * git push heroku master
+
+Step to push to GitHub
+------
+  * git commit -m "Message"
+  * git push 
