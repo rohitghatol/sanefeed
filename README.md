@@ -15,10 +15,10 @@ Pre-requistes
 
 Step to deploy on Heruko
 ------
-  * git commit -m "Message"
+  * git commit -a -m "Message"
   * git push heroku master
 
 Step to push to GitHub
 ------
-  * git commit -m "Message"
+  * git commit -a -m "Message"
   * git push 
