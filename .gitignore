@@ -11,5 +11,8 @@ pids
 logs
 results
 
+public/components
+.idea
+
 npm-debug.log
 node_modules
