@@ -10,8 +10,10 @@ Setup
 Pre-requistes 
   * Install Heruko Client - https://toolbelt.heroku.com/
   * Install NodeJs and NPM - http://nodejs.org/download/ 
-  * 
 
+Development Setup
+  * Run "npm install" install all prerequistes
+  * Run "foreman start" to locally start the web app
 
 Step to deploy on Heruko
 ------
