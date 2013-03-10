@@ -22,7 +22,9 @@ app.get('/',function(req,res){
     res.redirect('/index.html');
 });
 app.get('/index.html', routes.index);
-app.get('/login.html', routes.login);
+app.get('/about.html', routes.about);
+app.get('/contact.html', routes.contact);
+app.get('/feedbox.html', routes.feedbox);
 
 var port = process.env.PORT || 3000;
 

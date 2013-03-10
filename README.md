@@ -1,26 +1,4 @@
-Sanefeed
-========
-
-SaneFeed Social Aggregation Platform
-
-
-Setup
+KinoEdu
 =======
 
-Pre-requistes 
-  * Install Heruko Client - https://toolbelt.heroku.com/
-  * Install NodeJs and NPM - http://nodejs.org/download/ 
-
-Development Setup
-  * Run "npm install" install all prerequistes
-  * Run "foreman start" to locally start the web app
-
-Step to deploy on Heruko
-------
-  * git commit -a -m "Message"
-  * git push heroku master
-
-Step to push to GitHub
-------
-  * git commit -a -m "Message"
-  * git push 
+Education Platform for Companies
